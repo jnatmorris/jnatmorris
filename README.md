@@ -1,2 +1,2 @@
--   Full-stack web developer
+-   Full-stack developer
 -   Type safety fanatic
